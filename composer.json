@@ -13,9 +13,9 @@
         "laravel/framework": "5.4.*"
     },	
     "autoload": {
-        "files": [
-            "Providers/Helpers.php"
-        ]
+        "psr-4": {
+            "Fredwared\\laravel-rosetta\\": "src/"
+        }
     },
     "minimum-stability": "dev"
 }
