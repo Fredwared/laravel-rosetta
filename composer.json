@@ -12,5 +12,6 @@
         "files": [
             "Providers/Helpers.php"
         ]
-    }
+    },
+	"minimum-stability": "dev",
 }
