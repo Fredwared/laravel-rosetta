@@ -1,0 +1,16 @@
+{
+    "name": "fredwared/translatable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fredwared",
+            "email": "fredwared@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "Providers/Helpers.php"
+        ]
+    }
+}
