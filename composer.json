@@ -10,17 +10,12 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/support": "5.4.*"
-    },
-	"config": {
-        "preferred-install": "dist",
-        "sort-packages": true,
-        "optimize-autoloader": true
-    },
+        "laravel/framework": "5.4.*"
+    },	
     "autoload": {
         "files": [
             "Providers/Helpers.php"
         ]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
